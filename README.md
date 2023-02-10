@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/MishanGhimire/MishanGhimire/blob/main/1656073714315.jpeg)
 <h1 align="center">Hi 👋, I'm Mishan Ghimire</h1>
 <h3 align="center">Passionate developer with experience in Python and Front-end web development. Constantly learning and experimenting with new technologies to create innovative solutions.</h3>
 
