@@ -1,3 +1,4 @@
+![logo](https://github.com/MishanGhimire/MishanGhimire/blob/main/viber_image_2022-03-29_20-20-36-000.jpg)
 <h1 align="center">Hi 👋, I'm Mishan Ghimire</h1>
 <h3 align="center">Passionate developer with experience in Python and Front-end web development. Constantly learning and experimenting with new technologies to create innovative solutions.</h3>
 
