@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on **my projects.**
 
-- 🌱 I’m currently learning **C programming**
+- 🌱 I’m currently learning **C++ and JavaScript programming**
 
 - 👯 I’m looking to collaborate on any Python **projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MishanGhimire](https://github.com/MishanGhimire)
 
-- 💬 Ask me about **Python,Dart**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **mishanghimire2003@gmail.com**
 
