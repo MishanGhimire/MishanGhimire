@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **mishanghimire2003@gmail.com**
 
-- ⚡ Fun fact **I love watching anime**
+- Fun fact **I love watching anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
