@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/mishanghimire" target="blank"><img src="https://img.shields.io/twitter/follow/mishanghimire?logo=twitter&style=for-the-badge" alt="mishanghimire" /></a> </p>
 
-- 🔭 I’m currently working on **my projects.**
+- 🔭 I am currently working on **my projects.**
 
 - 🌱 I’m currently learning **C++ and JavaScript programming**
 
