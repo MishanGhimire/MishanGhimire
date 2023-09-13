@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MishanGhimire](https://github.com/MishanGhimire)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **mishanghimire2003@gmail.com**
 
