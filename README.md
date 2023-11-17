@@ -76,13 +76,13 @@
 <div align="center">
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bijay-Shre-stha&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bijay-Shre-stha&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijay-Shre-stha&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-[![Bijay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bijay-shre-stha&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-readme-stats.vercel.app/api?username=MishanGhimire&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MishanGhimire&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MishanGhimire&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+[![Mishan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bijay-shre-stha&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bijay-Shre-stha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MishanGhimire&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
@@ -90,6 +90,6 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Bijay-Shre-stha&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MishanGhimire&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
