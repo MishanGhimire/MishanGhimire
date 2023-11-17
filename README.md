@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35"  alt="facebook logo"  />
     </a>
 
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrhTWDQgGFlhcTQGpXgBmVWwtPJjQGbNmJkGZnxQWJRbgKqlfQQqfbFpTJwBjCZcjRZHxV">
+  <a href="https://mail.google.com/mail/u/2/#inbox?compose=new">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 
