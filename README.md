@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is Mishan Ghimire <br> I'm a Computer Science Student 💻<br>Currently from Kathmandu, Nepal 📌</h2> <br>
 <div align="center">
-<h4>Navigating the Digital Expanse 🚀 | Crafting Code with Purpose 💻 | Eternal Student 📚 |  Uniting the Points 🌐
+<h4>Embarking on a Digital Odyssey 🌌 | Weaving Purpose into Code 💻 | Perpetual Student of the Infinite 📚 | Connecting the Dots in the Digital Cosmos 🌐 #CodeCrafting #DigitalExploration #EternalLearner 🚀
 </h4>
 </div>
 
