@@ -62,6 +62,10 @@
   <img width="12" />  
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
+  <img width="12" />
 </div>
 
 
