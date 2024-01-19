@@ -71,7 +71,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MishanGhimire&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MishanGhimire&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MishanGhimire&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MishanGhimire&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![Mishan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MishanGhimire&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
