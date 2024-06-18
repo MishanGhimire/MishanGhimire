@@ -84,15 +84,16 @@
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MishanGhimire&show_icons=true&theme=radical" style={{ borderRadius: "20px", margin: "10px"}} width="50%" alt=""/>  -->
 </div>
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MishanGhimire&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MishanGhimire&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
-
-###
 
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=MishanGhimire&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=MishanGhimire&&style=flat-square" align="center" /> 
 
 </div>
