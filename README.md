@@ -71,11 +71,9 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MishanGhimire&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MishanGhimire&theme=radical&hide_border=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MishanGhimire&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MishanGhimire&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![Mishan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MishanGhimire&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MishanGhimire&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+[![Mishan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MishanGhimire&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<hr/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MishanGhimire&theme=radical&no-frame=false&no-bg=false&margin-w=4)
