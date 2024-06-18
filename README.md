@@ -75,6 +75,15 @@
 [![Mishan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MishanGhimire&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr/>
 
+
+## Days I Code
+
+<div style="display: flex; justify-content: center; align-items: center;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MishanGhimire&show_icons=true&theme=radical" alt=""/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MishanGhimire&show_icons=true&theme=radical" style={{ borderRadius:"20px", margin: "10px"}} width="50%" alt=""/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MishanGhimire&show_icons=true&theme=radical" style={{ borderRadius: "20px", margin: "10px"}} width="50%" alt=""/> 
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MishanGhimire&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
