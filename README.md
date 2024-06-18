@@ -94,6 +94,6 @@
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=MishanGhimire&icon=0&color=0)](https://visitcount.itsvg.in)
-<img src="https://komarev.com/ghpvc/?username=MishanGhimire&&style=flat-square" align="center" /> 
+
 
 </div>
